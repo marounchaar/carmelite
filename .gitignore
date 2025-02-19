@@ -1,3 +1,5 @@
 /vendor/
 
 connect.php
+composer.json
+composer.lock
